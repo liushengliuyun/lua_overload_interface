@@ -139,4 +139,4 @@ Strict()
 
 ]]
 
-_G.DefineGlobal("Overload", include_overload)
+return include_overload
